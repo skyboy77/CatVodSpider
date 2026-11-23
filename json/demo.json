@@ -491,7 +491,7 @@
       "key": "橘子",
       "name": "🍊橘子┃影视",
       "type": 3,
-      "api": "csp_AppDramaV5",
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
