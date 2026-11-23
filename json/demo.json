@@ -494,7 +494,7 @@
       "api": "csp_AppDramaV5",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": {
         "appName": "橘汁",
         "commonKey": "ed5fdsgucxumegqa",
